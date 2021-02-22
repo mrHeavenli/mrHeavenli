@@ -4,10 +4,10 @@ I like to make oddly specific aplications(mainly in python)
 If you are an idiot with a windows computer,
 ^C ^V this into a batch file(.bat extension):
 
-´´´batchfile
+```batchfile
 :a
 start cmd
 start paint
 calc
 goto a
-´´´
+```
