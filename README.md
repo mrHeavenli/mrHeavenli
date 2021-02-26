@@ -4,14 +4,8 @@ I like to make oddly specific aplications(mainly in python)
 <br></br>
 
 ### Random stuff
-
-If you are an idiot with a windows computer,
-^C ^V this into a batch file(.bat extension):
-
-```batchfile
-:a
-start cmd
-start paint
-calc
-goto a
-```
+Windows users:
+´´´
+If you got a dollar for every bluescreen, 
+you would be rich.
+´´´
