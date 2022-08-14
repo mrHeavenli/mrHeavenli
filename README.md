@@ -6,3 +6,5 @@ and fixing anything that doesn't work!
 
 So, if you'd like to chat, you can ping me on discord:
 mrHeavenli#7145
+
+![mrHeavenli's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrHeavenli&theme=nightowl&show_icons=true)
