@@ -8,4 +8,4 @@ So, if you'd like to chat, you can ping me on discord:
 mrHeavenli#7145
 
 ![mrHeavenli's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrHeavenli&theme=nightowl&show_icons=true)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrHeavenli&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrHeavenli&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
